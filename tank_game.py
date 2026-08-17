@@ -31,7 +31,7 @@ WIDTH, HEIGHT = COLS * TILE, ROWS * TILE
 FPS = 60
 
 # 颜色 (R, G, B)
-BLACK = (18, 18, 18)
+BLACK = (17, 17, 17)
 WHITE = (240, 240, 240)
 GREEN = (80, 200, 100)
 RED = (220, 70, 70)
