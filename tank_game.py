@@ -25,7 +25,7 @@ import sys
 import pygame
 
 # ------------------------------------------------------------------ 常量配置
-TILE = 40                       # 每个网格 / 坦克的像素大小
+TILE = 40                       # 每个网格 and 坦克的像素大小
 COLS, ROWS = 16, 13            # 地图的列数与行数
 WIDTH, HEIGHT = COLS * TILE, ROWS * TILE
 FPS = 60
